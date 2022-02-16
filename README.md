@@ -24,6 +24,10 @@ License : CC0: Public Domain
 
 Image of beds, number of images = 1000
 
+## Training samples
+
+![plot](./samples.jpg)
+
 ## Techniques
 ### General strategy
  - Basic image process, Generate data set 
