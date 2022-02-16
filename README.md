@@ -17,8 +17,12 @@ Using Generative adversarial network, build generative model with Tensorflow Ker
 
 ## Data Source
 Kaggle.com - Datasets - Furniture detector
+
 Source : https://www.kaggle.com/akkithetechie/furniture-detector
+
 License : CC0: Public Domain
+
+Image of beds, number of images = 1000
 
 ## Techniques
 ### General strategy
