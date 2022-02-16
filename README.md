@@ -36,3 +36,13 @@ License : CC0: Public Domain
  - Hyperparameters = Batch size 10, epochs 100
 
 ## Results
+ - Before training
+ 
+![plot](./before.jpg)
+
+ - After training (last 100 images)
+
+![plot](./set0.jpg)
+![plot](./set1.jpg)
+![plot](./set2.jpg)
+![plot](./set3.jpg)
